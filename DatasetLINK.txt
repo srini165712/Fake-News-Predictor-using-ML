@@ -1,0 +1,5 @@
+I have used my training set as both training and testing set however you may use 2 different sets of data.
+Training Set: 
+	https://www.kaggle.com/c/fake-news/data?select=train.csv
+Testing Set:
+	https://www.kaggle.com/c/fake-news/data?select=test.csv
